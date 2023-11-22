@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(157, 157, 246);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -30,7 +30,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #ddddddd2;
     margin: 0 auto;
 }
 
